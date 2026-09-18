@@ -1,0 +1,6 @@
+{
+  "name": "DoaFácil - Doações & Coleta Segura",
+  "description": "Plataforma de doações onde doadores cadastram itens e endereços aproximados, e pessoas ou ONGs solicitam itens com liberação do endereço definitivo após autorização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
